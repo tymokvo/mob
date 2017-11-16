@@ -1,0 +1,4 @@
+--require spec_helper
+--require bob
+--tag '~skip'
+--format progress

@@ -17,7 +17,7 @@ Then there's the **mob**, which is everyone else!
 
 ## List
 
-
+- [November 2017](https://github.com/TEECOM/mob/blob/master/november-2017)
 
 ## Contributing
 
