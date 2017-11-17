@@ -95,10 +95,25 @@ Inspired by the 'Deaf Grandma' exercise in Chris Pine's
 To learn more about the concepts covered in this exercise, check out the
 following:
 
+#### High Level
+
 - [What are Guard Clauses?](https://devblast.com/b/what-are-guard-clauses)
 - [Feature Envy Smell](http://wiki.c2.com/?FeatureEnvySmell)
 - [thoughtbot](https://thoughtbot.com) blog post:
   [Back to Basics: SOLID](https://robots.thoughtbot.com/back-to-basics-solid#single-responsibility-principle)
+
+#### Vim
+
+- [Text cheat sheet](https://vim.rtorr.com)
+- [Graphical cheat sheet tutorial](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
+
+![Image cheat sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
+
+#### Ruby
+
+- The amazing [why's (poignant) guide to Ruby](https://poignant.guide/book/chapter-1.html)
+- [Ruby in 20 Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
+- [Codecademy](https://www.codecademy.com/en/tracks/ruby)
 
 ## Questions?
 
