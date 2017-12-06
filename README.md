@@ -19,6 +19,8 @@ Then there's the **mob**, which is everyone else!
 
 - [November 2017](https://github.com/TEECOM/mob/blob/master/november-2017)
 
+- [December 2017](https://github.com/TEECOM/mob/blob/master/december-2017)
+
 ## Contributing
 
 For information on contributing, please read the
